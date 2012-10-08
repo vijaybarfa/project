@@ -1,10 +1,2 @@
-this is my first project for github learning
+this is my first project for github  learning task
 
-
-dfgdfgdfg
-
-dgfdfgdfg
-
-
-g
-dfgdfgdfgdfdfg
